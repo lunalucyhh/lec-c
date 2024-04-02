@@ -8,4 +8,6 @@ int main(void)
 	putchar(ch);
 	putchar('z');
 
+
+	return 0;   
 }
